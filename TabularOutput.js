@@ -5,6 +5,7 @@ for(let count = 1; count <=4; count++){
 	process.stdout.write(output + "    ");
 }
 console.log(" ");
+
 for(let count1 = 1; count1 <=5; count1++){
 	let multiply = 1;
 
