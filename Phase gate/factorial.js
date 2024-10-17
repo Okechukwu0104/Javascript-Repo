@@ -11,5 +11,5 @@ const value = parseInt(prompt("input a number to factor: "));
 	if(factorial <= 1000){
 		console.log(factorial)
 	}else{
-		console.log("The result exceeds 1000");
+		console.log("The factorial exceeds 1000");
 	}
