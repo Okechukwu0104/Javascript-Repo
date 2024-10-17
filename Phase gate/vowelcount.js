@@ -1,7 +1,7 @@
 const ps = require("prompt-sync");
 const prompt = ps();
 
-let array = ["a","e","i","o","u"]
+let array = "aeiouAEIOU"
 const input = prompt("input a word: ");
 let counter = 0;
 for(let count = 0; count< input.length; count++ ){
